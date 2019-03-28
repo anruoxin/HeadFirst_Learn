@@ -1,2 +1,2 @@
 # HeadFirst_Learn
-学习Java的设计模式
+Java设计模式的学习
